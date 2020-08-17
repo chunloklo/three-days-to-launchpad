@@ -4,7 +4,7 @@ A game built in Processing and Arduino and played with a custom built physical c
 
 Programming and Design - Chunlok Lo <br>Art - Grace Gaspardo<br>Physical controller design and fabrication - Cheyenne Baker, Trevor Hyman
 
-[Video Demo]((https://www.youtube.com/watch?v=xDo9BJ58l6I))
+[Video Demo](https://www.youtube.com/watch?v=xDo9BJ58l6I)
 
 [![Video Demo](screenshots/titleScreen.png)](https://www.youtube.com/watch?v=xDo9BJ58l6I)
 
